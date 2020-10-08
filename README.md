@@ -3,17 +3,18 @@ Temporary solution for laziness and all usage requirements must be met for scrip
 
 # Usage
 
-Directory **must** contain the following:
+1. Directory **must** contain the following:
 
 - input folder
 - output folder
 - frame.png
 
-Note: **Images must be of size `375 x 812` (3x export for iPhone frame in Adobe XD)**. Place images in `input` and run the script.
+(Note: **Images must be of size `375 x 812` (3x export for iPhone frame in Adobe XD)**. Place images in `input` and run the script.)
+(If false positives are detected by your AV due to creation of folders, turn off AV temporarily.)
 
-If false positives are detected by your AV due to creation of folders, turn off AV temporarily.
+2. Download zip file of the code (green button near filename)
 
-To use, simply run
+3. Run
 
 ```bash
 > cd Downloads

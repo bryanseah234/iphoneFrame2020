@@ -9,8 +9,7 @@ Temporary solution for laziness and all usage requirements must be met for scrip
 - output folder
 - frame.png
 
-(Note: **Images must be of size `375 x 812` (3x export for iPhone frame in Adobe XD)**. Place images in `input` and run the script.)
-(If false positives are detected by your AV due to creation of folders, turn off AV temporarily.)
+(Note: **Images must be of size `375 x 812` (3x export for iPhone frame in Adobe XD)**. Place images in `input` and run the script. If false positives are detected by your AV due to creation of folders, turn off AV temporarily.)
 
 2. Download zip file of the code (green button near filename)
 

@@ -26,5 +26,3 @@ in a terminal of your choice.
 # Builds
 
 Binaries can be found [here](https://github.com/recreationx/autoiPhoneFrame/releases)
-
-Run iPhoneFrame.exe from command line or directly. When ran directly, program will close after execution.

@@ -1,5 +1,5 @@
-# autoiPhoneFrame
-Temporary solution for laziness and all usage requirements must be met for script to run properly. Project was created mainly for creation of mobile phone images in PW.
+# Auto iPhone Frame
+Temporary solution for laziness and all usage requirements must be met for script to run properly. Was created mainly for creation of mobile phone images in PW.
 
 # Usage
 

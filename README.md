@@ -1,6 +1,9 @@
 # Auto iPhone Frame
 Temporary solution for laziness and all usage requirements must be met for script to run properly. Was created mainly for creation of mobile phone images in PW.
 
+# Credits
+Full credits to recreationx[https://github.com/recreationx] for the code and coming up with this within a day or so. Thanks for carrying the team xD.
+
 # Usage
 
 1. Directory **must** contain the following:

@@ -1,12 +1,15 @@
 # Auto iPhone Frame
 Temporary solution for laziness and all usage requirements must be met for script to run properly. Was created mainly for creation of mobile phone images in PW.
 
-## Credits
+## Credits:
 Full credits to [recreationx](https://github.com/recreationx) for the code and coming up with this within a day or so. Thanks for carrying the team xD.
 
-## Demo
+## Disclaimer:
+1. NONE
 
-## Usage
+## Demo:
+
+## Instructions:
 
 1. Directory **must** contain the following:
 
@@ -18,15 +21,13 @@ Full credits to [recreationx](https://github.com/recreationx) for the code and c
 
 2. Download zip file of the code (green button near filename)
 
-3. Run
+3. Run the following code in a terminal of your choice.
 
 ```bash
 > cd Downloads
 > cd iphone-frame-code-master
 > iPhoneFrame.py
 ```
-
-in a terminal of your choice.
 
 ## Builds
 

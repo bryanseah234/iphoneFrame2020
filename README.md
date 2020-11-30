@@ -2,7 +2,7 @@
 Temporary solution for laziness and all usage requirements must be met for script to run properly. Was created mainly for creation of mobile phone images in PW.
 
 <p align="center">
-  <img src="https://cdn.cultofmac.com/wp-content/uploads/2018/10/iphone-x-frame-copy.5099d7a2b5e840058781693515d2abc5-780x517.jpg" />
+  <img src="https://cdn.cultofmac.com/wp-content/uploads/2018/10/iphone-x-frame-copy.5099d7a2b5e840058781693515d2abc5-780x517.jpg" width="700" height="500" />
 </p>
 
 ## Credits:
